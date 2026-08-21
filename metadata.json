@@ -1,0 +1,6 @@
+{
+  "name": "VoltSure UK",
+  "description": "Enterprise-grade UK Electrical & Gas Services platform connecting homeowners, landlords, and businesses with certified NICEIC electricians and Gas Safe registered engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
